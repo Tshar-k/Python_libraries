@@ -1,3 +1,7 @@
 # Python_libraries
-Basic python libraries which includes Pandas, Matplotlib, Numpy and Seaborn
-
+Basic python libraries which include: 
+-Pandas
+-Matplotlib
+-Numpy 
+-Seaborn
+-plotly
